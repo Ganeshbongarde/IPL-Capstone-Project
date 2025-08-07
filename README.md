@@ -5,8 +5,7 @@ This project is a comprehensive Exploratory Data Analysis (EDA) and visualizatio
 ## 📂 Project Structure
 
 - IPL_Capstone_Project.ipynb: The main Jupyter Notebook containing all code, analysis, and visualizations.
-- datasets : Folder to store IPL data CSVs (`matches.csv`, `deliveries.csv`, etc.).
-- images: (Optional) Save plots or charts if exported separately.
+- images:  Save plots or charts if exported separately.
 - README.md: Project documentation.
 
 ## 🧠 Skills & Tools Used
